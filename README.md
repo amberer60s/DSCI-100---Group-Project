@@ -1,6 +1,7 @@
 Project Final Report
 
+Anneke Hermawan (15978349), Meixuan Chen (79530754), 
 
-My specific question will be "Can player characteristics,such as age, predict the total played hours?".
+Can a player's age predict the total number of hours played?
 
-Can player characteristics (experience level, subscription status, and age) predict the total amount of playtime contributed?
+
